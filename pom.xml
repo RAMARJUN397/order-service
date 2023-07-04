@@ -12,7 +12,7 @@
 	<artifactId>order-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>order-service</name>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<description>Order Service CI/CD using AWS CodePipeline</description>
 
 	<properties>
